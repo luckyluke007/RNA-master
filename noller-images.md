@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: noller
 title: Ribosome Images
 ---
 
