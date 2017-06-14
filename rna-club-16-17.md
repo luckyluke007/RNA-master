@@ -5,6 +5,8 @@ nav: NRA Club
 order: 4
 ---
 
+{% include nra-club-nav.html %} 
+
 Meets every 2nd Tuesday of the month. | 4:00 - 6:00 pm | @ rm 123 Sinsheimer Labs, UCSC 
 
 ****
