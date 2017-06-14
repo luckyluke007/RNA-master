@@ -22,5 +22,5 @@ Mon-Fri, 8 am – 12 noon PT
 
 > ## Email
 [RNA Center](mailto:ptveit@ucsc.edu)<br/>
-[Webmaster](donohue@ucsc.edu)
+[Webmaster](mailto:donohue@ucsc.edu)
 
