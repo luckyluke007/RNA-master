@@ -21,7 +21,7 @@ The ribosome is a very large (~2.5 MDa) cellular ribonucleoprotein complex respo
 ****
 
 <figure class="figure">
-  <img src="images/Fig_2_electron_density.jpg" class="img-fluid rounded" alt="Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)">
+  <img src="images/Fig_2_electron_density.jpg" class="img-thumbnail rounded" alt="Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)">
   <figcaption class="figure-caption">Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)</figcaption>
 </figure>
 
