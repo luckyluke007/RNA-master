@@ -1,6 +1,7 @@
 ---
-layout: noller
+layout: page
 title: Noller Lab Publications
+page-style: noller
 ---
 
 {% include noller-lab-subnav.html %} 

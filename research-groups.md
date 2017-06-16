@@ -2,6 +2,7 @@
 layout: page
 title: Research groups
 nav: Research Groups
+page-style: research-team
 order: 1
 ---
 

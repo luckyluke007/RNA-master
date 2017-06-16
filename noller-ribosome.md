@@ -1,6 +1,7 @@
 ---
-layout: noller
+layout: page
 title: The Ribosome
+page-style: noller
 ---
 
 {% include noller-lab-subnav.html %} 

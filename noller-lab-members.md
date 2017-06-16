@@ -1,6 +1,7 @@
 ---
-layout: noller
+layout: page
 title: Noller Lab Members
+page-style: noller
 ---
 
 {% include noller-lab-subnav.html %} 

@@ -1679,15 +1679,26 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 }
 
-#main {
-	> #noller {
-		@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/noller-black-background-2.jpg")'));
+.noller {
+	#main { 
+		> header {
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/noller-black-background-2.jpg")'));
+		}
+	}
+}
+
+.research-team {
+	#main { 
+		> header {
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/research-team-background.jpg")'));
+		}
 	}
 }
 
 	#main {
 		> header,
-			#noller {
+			.noller,
+			.research-team {
 			@include padding(12em, 0);
 			background-attachment: fixed;
 			background-position: center center;
@@ -1972,4 +1983,10 @@ blockquote ul:after {
 
 .figure-caption {
 	font-size: .85em;
+}
+
+@media (max-width: 400px) {
+	header h1 {
+		letter-spacing: 0.1em;
+	}
 }

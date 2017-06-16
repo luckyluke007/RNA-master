@@ -1,6 +1,7 @@
 ---
-layout: noller
+layout: page
 title: Ribosome Images
+page-style: noller
 ---
 
 
