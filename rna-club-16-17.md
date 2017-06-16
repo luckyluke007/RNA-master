@@ -1,11 +1,11 @@
 ---
 layout: page
 title: RNA Club 2016-17 Academic year
-nav: NRA Club
+nav: RNA Club
 order: 4
 ---
 
-{% include nra-club-nav.html %} 
+{% include rna-club-nav.html %}
 
 Meets every 2nd Tuesday of the month. | 4:00 - 6:00 pm | @ rm 123 Sinsheimer Labs, UCSC 
 
