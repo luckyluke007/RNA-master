@@ -12,4 +12,8 @@
 
 - Back up old site
 
-- **DO NOT REMOVED** your ```images``` folder, add new images in to your current folder.
+- Links for software are absolute links.
+
+- Links for Noller's Movies page are absolute links.
+
+- Links for Noller's Downloads page are absolute links. 
