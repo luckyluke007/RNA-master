@@ -9,7 +9,7 @@ page-style: noller
 ****
 
 <figure class="figure">
-  <img src="images/Fig_1_cross_section.jpg" class="img-thumbnail rounded" alt="Cross-section of the T. thermophilus 70S ribosome showing the locations of the mRNA and tRNAs in the intersubunit cavity.
+  <img src="images/Fig_1_cross_section.jpg" class="full-img" alt="Cross-section of the T. thermophilus 70S ribosome showing the locations of the mRNA and tRNAs in the intersubunit cavity.
 Electron density of tRNA and mRNA in intermediate state Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)">
   <figcaption class="figure-caption">Cross-section of the T. thermophilus 70S ribosome showing the locations of the mRNA and tRNAs in the intersubunit cavity.
 Electron density of tRNA and mRNA in intermediate state Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)</figcaption>
@@ -22,7 +22,7 @@ The ribosome is a very large (~2.5 MDa) cellular ribonucleoprotein complex respo
 ****
 
 <figure class="figure">
-  <img src="images/Fig_2_electron_density.jpg" class="img-thumbnail rounded" alt="Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)">
+  <img src="images/Fig_2_electron_density.jpg" class="full-img" alt="Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)">
   <figcaption class="figure-caption">Electron density map for the mRNA, tRNAs and elongation factor EF-G from the crystal structure of a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014)</figcaption>
 </figure>
 
@@ -33,14 +33,14 @@ An example of a current area of investigation is to understand the mechanism of 
 ****
 
 <figure class="figure">
-  <img src="images/Fig_3_2tRNAs_EFG.png" class="img-fluid rounded" alt="Positions of tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014).">
+  <img src="images/Fig_3_2tRNAs_EFG.png" class="full-img" alt="Positions of tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014).">
   <figcaption class="figure-caption">Positions of tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate (Zhou et al., 2014).</figcaption>
 </figure>
 
 ****
 
 <figure class="figure">
-  <img src="images/Fig_4_head_rotation.png" class="img-fluid rounded" alt="Positions of tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate, showing contact between domain IV of EF-G and the mRNA and ap/ap chimeric hybrid-state tRNA (Zhou et al., 2014).">
+  <img src="images/Fig_4_head_rotation.png" class="full-img" alt="Positions of tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate, showing contact between domain IV of EF-G and the mRNA and ap/ap chimeric hybrid-state tRNA (Zhou et al., 2014).">
   <figcaption class="figure-caption">Positions of tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate, showing contact between domain IV of EF-G and the mRNA and ap/ap chimeric hybrid-state tRNA (Zhou et al., 2014).</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ A working model is that in the first step of translocation, the tRNAs move relat
 ****
 
 <figure class="figure">
-  <img src="images/Fig_5_EFG_dom_IV.png" class="img-fluid rounded" alt="Contacts between the 30S ribosomal subunit and tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate, showing movement of the tRNAs following the rotational movement of the 30S head domain, and domain IV of EF-G (Zhou et al., 2014).
+  <img src="images/Fig_5_EFG_dom_IV.png" class="full-img" alt="Contacts between the 30S ribosomal subunit and tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate, showing movement of the tRNAs following the rotational movement of the 30S head domain, and domain IV of EF-G (Zhou et al., 2014).
 ">
   <figcaption class="figure-caption">Contacts between the 30S ribosomal subunit and tRNAs in (A) the classical-state ribosome (Jenner et al., 2010) and (B) a trapped chimeric hybrid-state translocation intermediate, showing movement of the tRNAs following the rotational movement of the 30S head domain, and domain IV of EF-G (Zhou et al., 2014).
 </figcaption>
