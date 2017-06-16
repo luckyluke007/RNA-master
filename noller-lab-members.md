@@ -105,7 +105,7 @@ Ehime University
 -  Currently at Max Plank Institute working on Spliceosome structure 
 
 > ### [Dmitri Ermolenko](http://www.urmc.rochester.edu/labs/Ermolenko-Lab/)
-**![Dmitri Ermolenko](http://rna.ucsc.edu/rnacenter/images/people/mike.jpg){:class="profile-img"}**
+**![Dmitri Ermolenko](http://rna.ucsc.edu/rnacenter/images/people/dmitri.jpg){:class="profile-img"}**
 -  [Currently at U Rochester Med Center](http://www.urmc.rochester.edu/labs/Ermolenko-Lab/)
 
 > ### Andrei Korostelev
