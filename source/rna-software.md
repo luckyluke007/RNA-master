@@ -27,6 +27,7 @@ order: 5
 ### [Crystallography on OS X](http://scottlab.ucsc.edu/xtal/wiki/index.php/Crystallography_on_OS_X)
 ![Crystallography on OSX](images/software/crystallography-osx.png){:class="image right software-img"}
 Determining the crystal structure of RNA using OSX software.
+- [COOT](http://scottlab.ucsc.edu/xtal/wiki/index.php/Stand-Alone_Coot)
 
 
 ***
