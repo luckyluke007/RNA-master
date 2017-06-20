@@ -164,6 +164,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.major {
 			margin: (_size(element-margin) * 2.25) 0;
 		}
+
+		.software & {
+			clear: both;
+		}
 	}
 
 	blockquote {
@@ -530,7 +534,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.left,
 		&.right {
-			max-width: 40%;
+			max-width: 30%;
 
 			img {
 				width: 100%;
@@ -1879,11 +1883,8 @@ $baseurl: '{{ site.baseurl }}/images';
 }
 
 .software-img {
-    display: inline-block;
-    float: left;
     clear: both;
-    padding-right: 1.5em;
-    width: 250px;
+    max-width: 250px;
 }
 
 blockquote {
