@@ -1,0 +1,130 @@
+- area: Ribosome Structure and Function
+  person: Harry F. Noller
+  image: images/people/newHN.jpg
+  page: https://mcd.ucsc.edu/faculty/noller.html
+  email: harry@nuvolari.ucsc.edu
+  website: noller-lab.html
+  publications: noller-lab-pubs.html
+  title:
+    - Director, Center for Molecular Biology of RNA
+    - Robert L. Sinsheimer Professor of Molecular Biology
+    - Professor of Molecular, Cell and Developmental Biology
+
+- area: RNA Splicing
+  person: Manuel Ares, Jr.
+  image: images/people/ares-medium.jpg
+  page: http://ribonode.ucsc.edu
+  email: ares@ucsc.edu
+  website: http://ribonode.ucsc.edu
+  publications: "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Ares%20M%20RNA%20or%20Ares%20M%20intron%20or%20Ares%20M%20splicing%20or%20Ares%20M%20Tetrahymena%20or%20Ares%20M%20teaching%20butnot%20Ares%20MP"
+  title:
+    - Professor of Molecular, Cell and Developmental Biology
+
+- area: Regulation of Alternative Splicing
+  person: Alan M. Zahler 
+  image: images/people/newzahler.jpg
+  page: http://bio.research.ucsc.edu/people/zahler/index.html
+  website: http://bio.research.ucsc.edu/people/zahler/index.html
+  publications: http://bio.research.ucsc.edu/people/zahler/pubs.html
+  email: zahler@biology.ucsc.edu
+  title:
+    - Professor of Molecular, Cell and Developmental Biology.
+
+- area: Non-coding RNA gene finders and experimental genomics
+  person: Todd Lowe
+  image: images/people/lowe.jpg
+  page: http://lowelab.ucsc.edu/
+  website: http://lowelab.ucsc.edu/
+  email: lowe@soe.ucsc.edu
+  title:
+    - Professor of Biomolecular Engineering.
+
+- area: Genomics and Bioinformatics
+  person: David Haussler
+  image: images/people/haussler_1.jpg
+  page: https://genomics-old.soe.ucsc.edu/haussler
+  website: https://genomics-old.soe.ucsc.edu/haussler
+  email: haussler@soe.ucsc.edu
+  title:
+    - Professor of Biomolecular Engineering.
+
+- area: Structural Approaches To Large Macromolecular Complexes
+  person: Melissa Jurica
+  image: images/people/melissa-jurica.jpg
+  page: http://bio.research.ucsc.edu/people/jurica/
+  website: http://bio.research.ucsc.edu/people/jurica/
+  publications: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=jurica+ms
+  email: jurica@biology.ucsc.edu
+  title:
+    - Professor of Molecular, Cell and Developmental Biology.
+
+- area: RNA Structure, Function and Catalysis
+  person: William G. Scott
+  image: images/people/facScott_1.jpg
+  page: http://xanana.ucsc.edu/scottlab/
+  website: http://xanana.ucsc.edu/scottlab/
+  publications: http://xanana.ucsc.edu/scottlab/pubs.html
+  email: wgscott@chemistry.ucsc.edu
+  title:
+    - Professor of Chemistry and Biochemistry.
+
+- area: Post-transcriptional control of gene expression
+  person: Jeremy Sanford
+  image: images/people/JS2.jpg
+  page: http://www.mcd.ucsc.edu/faculty/sanford.html
+  website: http://www.mcd.ucsc.edu/faculty/sanford.html
+  publications: http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=PureSearch&db=pubmed&term=sanford+jr[au]
+  email: jeremyrsanford@gmail.com
+  title:
+    - Associate Professor of Molecular, Cell and Developmental Biology. 
+
+- area: Single-molecule Biophysics and Enzymology
+  person: Michael Stone
+  image: images/people/newstone.jpg
+  page: http://stone.chemistry.ucsc.edu/
+  website: http://stone.chemistry.ucsc.edu/
+  publications: http://stone.chemistry.ucsc.edu/index.php/publications/
+  email: mds@ucsc.edu
+  title:
+     - Associate Professor of Chemistry. 
+
+- area: Somatic Mutations that cause changes to the Transcriptome
+  person: Angela Brooks
+  image: images/people/abrooks.jpeg
+  page: https://www.soe.ucsc.edu/people/brooks
+  website: https://www.soe.ucsc.edu/people/brooks
+  publications: https://brookslab.soe.ucsc.edu/?page_id=7
+  email: anbrooks@ucsc.edu
+  title:
+    - Assistant Professor of Biomolecular Engineering. 
+
+- area: Innate Immune Responses to Infection
+  person: Susan Carpenter
+  image: images/people/Susan-Carpenter-L.jpg
+  page: http://mcd.ucsc.edu/faculty/carpenter.html
+  website: http://mcd.ucsc.edu/faculty/carpenter.html
+  publications: https://sites.google.com/a/ucsc.edu/carpenter-lab/publications
+  email: sucarpen@ucsc.edu
+  title:
+    - Assistant Professor of Molecular, Cell and Developmental Biology. 
+
+- area: Epigenomic reprogramming by long noncoding RNA
+  person: Daniel H. Kim
+  image: images/people/newdanielkim.jpg
+  page: http://www.soe.ucsc.edu/people/dkim
+  website: https://dkim.soe.ucsc.edu/
+  publications: https://sites.google.com/a/ucsc.edu/kim-lab/publications
+  email: daniel.kim@ucsc.edu
+  title:
+    - Assistant Professor, Biomolecular Engineering 
+
+- area: Nanopore sequencing
+  person: Mark Akeson
+  image: images/people/akeson1.jpg
+  page: http://www.soe.ucsc.edu/people/makeson
+  website: http://www.soe.ucsc.edu/people/makeson
+  publications: https://cbse.soe.ucsc.edu/people/akeson_pubs
+  email: makeson@soe.ucsc.edu
+  title:
+    - Professor, Biomolecular Engineering 
+

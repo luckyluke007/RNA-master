@@ -1,0 +1,42 @@
+---
+layout: default
+title: Research Groups
+nav: Research Groups
+page-style: research-team
+order: 1
+---
+<article id="main">
+
+  <header>
+    <h2>{{ page.title }}</h2>
+  </header>
+
+  <section class="wrapper style5">
+    <div class="inner">
+      
+      {% for group in site.data.groups %}
+        <h2>{{ group.area }}</h2>        
+        <div class="group">
+          <div class="portrait">
+            <img src="{{ group.image }}" alt="{{ group.person }}">
+          </div>
+          <div class="information">
+            <h3>{{ group.person }}</h3>
+            <p>{% for t in group.title %}{{ t }}<br />{% endfor %}</p>
+            <ul>
+              <li><a href="{{ group.website }}">Lab website</a></li>
+              <li><a href="mailto:{{ group.email }}" title="{{ group.email }}">Email</a></li>
+              {% if group.publications %}
+              <li><a href="{{ group.publications }}">Publications</a></li>
+              {% endif %}
+            </ul>
+          </div>
+          
+        </div>
+      {% endfor %}
+
+
+    </div>
+  </section>
+
+</article>
