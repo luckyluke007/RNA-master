@@ -31,7 +31,7 @@ Professor of Biomolecular Engineering.
 Professor of Biomolecular Engineering.
 
 > ### Structural Approaches To Large Macromolecular Complexes
-**![Melissa Jurica](images/people/newjurica.jpg){:class="profile-img"} [Melissa Jurica](http://bio.research.ucsc.edu/people/jurica/home.htm) | [lab website](http://bio.research.ucsc.edu/people/jurica/home.htm) | [pubs](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=jurica+ms) | [email](mailto:jurica@biology.ucsc.edu)**<br/>
+**![Melissa Jurica](images/people/melissa-jurica.jpg){:class="profile-img"} [Melissa Jurica](http://bio.research.ucsc.edu/people/jurica/) | [lab website](http://bio.research.ucsc.edu/people/jurica/) | [pubs](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=jurica+ms) | [email](mailto:jurica@biology.ucsc.edu)**<br/>
 Professor of Molecular, Cell and Developmental Biology.
 
 > ### RNA Structure, Function and Catalysis

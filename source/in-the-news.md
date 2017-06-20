@@ -5,6 +5,31 @@ nav: In The News
 order: 2
 ---
 
+https://mcd.ucsc.edu/news-events/news/news-article-April-2016-MCD-new-research-funding.html   Jurica and Zahler
+
+https://mcd.ucsc.edu/news-events/news/news-article-carpenter-arthritis-2016.html   Susan Carpenter - award for arthritis research, interview and video
+
+
+https://news.ucsc.edu/2014/05/hhmi-grant.html  teaching initiative led by RNA center prof Manny Ares (2014)
+
+https://news.ucsc.edu/2016/03/leukemia-study.html Sanford Research (2016)
+
+https://news.ucsc.edu/2016/05/pancreatic-cancer.html  Sanford Research (2016)  - links to a video
+
+https://stemcell.soe.ucsc.edu/news/article/42  Manny ares (2013)
+
+https://news.ucsc.edu/2016/10/cancer-research-grants.html (2016)
+
+April 1, 2017
+Assistant Professor Angela Brooks Named "Scientist To Watch" By The Scientist Magazine
+http://www.the-scientist.com/?articles.view/articleNo/48910/title/Angela-Brooks--Splicing-Specialist/
+
+Michael Stone (2013)  https://stemcell.soe.ucsc.edu/news/article/27
+
+Stone (2015) https://news.ucsc.edu/2015/10/telomerase.html
+
+Akeson (2014) https://www.soe.ucsc.edu/news/article/2301
+
 
 > **December 4,2016** <br/>
 [Harry Noller wins the 2017 Life Sciences Breakthrough Prize !](https://breakthroughprize.org/Laureates/2/L3791)
