@@ -1679,7 +1679,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 #main {
 	> header {
-		@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner.jpg")'));
+		@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner-ptrna-extrusion.jpg")'));
 	}
 }
 
@@ -1705,7 +1705,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			.noller,
 			.research-team {
 			@include padding(12em, 0);
-			background-attachment: fixed;
+			// background-attachment: fixed;
 			background-position: center top;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -1830,7 +1830,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner-ribosome.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1851,7 +1851,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner.jpg")'));
+				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner-ribosome.jpg")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;
@@ -1908,12 +1908,25 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 }
 
+.news-clips .inner li p {
+	margin-bottom: .75em;
+}
+
+.news-clips .inner li {
+	margin-bottom: 1.25em;
+}
+
 blockquote {
     display: inline-block;
     background: rgba(255,255,255, .1);
     margin: 2em 0;
     padding: 20px 20px 20px;
     width: 100%;
+    .news-clips & {
+    	margin: 0 0 2em 2em;
+    	padding: .25em .25em .25em .75em;
+    	width: 80%;
+    }
 }
 
 blockquote p {
