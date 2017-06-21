@@ -3,8 +3,8 @@
   image: images/people/newHN.jpg
   page: https://mcd.ucsc.edu/faculty/noller.html
   email: harry@nuvolari.ucsc.edu
-  website: noller-lab.html
-  publications: noller-lab-pubs.html
+  website: noller_lab.html
+  publications: noller_lab_pubs.html
   title:
     - Director, Center for Molecular Biology of RNA
     - Robert L. Sinsheimer Professor of Molecular Biology
