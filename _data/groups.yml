@@ -37,7 +37,7 @@
   website: http://lowelab.ucsc.edu/
   email: lowe@soe.ucsc.edu
   title:
-    - Professor of Biomolecular Engineering.
+    - Professor of Biomolecular Engineering
 
 - area: Genomics and Bioinformatics
   person: David Haussler
@@ -46,7 +46,7 @@
   website: https://genomics-old.soe.ucsc.edu/haussler
   email: haussler@soe.ucsc.edu
   title:
-    - Professor of Biomolecular Engineering.
+    - Professor of Biomolecular Engineering
 
 - area: Structural Approaches To Large Macromolecular Complexes
   person: Melissa Jurica
@@ -56,7 +56,7 @@
   publications: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=jurica+ms
   email: jurica@biology.ucsc.edu
   title:
-    - Professor of Molecular, Cell and Developmental Biology.
+    - Professor of Molecular, Cell and Developmental Biology
 
 - area: RNA Structure, Function and Catalysis
   person: William G. Scott
@@ -66,7 +66,7 @@
   publications: http://xanana.ucsc.edu/scottlab/pubs.html
   email: wgscott@chemistry.ucsc.edu
   title:
-    - Professor of Chemistry and Biochemistry.
+    - Professor of Chemistry and Biochemistry
 
 - area: Post-transcriptional control of gene expression
   person: Jeremy Sanford
@@ -76,7 +76,7 @@
   publications: http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=PureSearch&db=pubmed&term=sanford+jr[au]
   email: jeremyrsanford@gmail.com
   title:
-    - Associate Professor of Molecular, Cell and Developmental Biology. 
+    - Associate Professor of Molecular, Cell and Developmental Biology
 
 - area: Single-molecule Biophysics and Enzymology
   person: Michael Stone
@@ -86,7 +86,7 @@
   publications: http://stone.chemistry.ucsc.edu/index.php/publications/
   email: mds@ucsc.edu
   title:
-     - Associate Professor of Chemistry. 
+     - Associate Professor of Chemistry
 
 - area: Somatic Mutations that cause changes to the Transcriptome
   person: Angela Brooks
@@ -96,7 +96,7 @@
   publications: https://brookslab.soe.ucsc.edu/?page_id=7
   email: anbrooks@ucsc.edu
   title:
-    - Assistant Professor of Biomolecular Engineering. 
+    - Assistant Professor of Biomolecular Engineering
 
 - area: Innate Immune Responses to Infection
   person: Susan Carpenter
@@ -106,7 +106,7 @@
   publications: https://sites.google.com/a/ucsc.edu/carpenter-lab/publications
   email: sucarpen@ucsc.edu
   title:
-    - Assistant Professor of Molecular, Cell and Developmental Biology. 
+    - Assistant Professor of Molecular, Cell and Developmental Biology
 
 - area: Epigenomic reprogramming by long noncoding RNA
   person: Daniel H. Kim
@@ -128,3 +128,22 @@
   title:
     - Professor, Biomolecular Engineering 
 
+- area: Analysis of Nanopore sequence data
+  person: Chris Vollmers
+  image: images/people/chris-vollmers.jpg
+  page: https://vollmerslab.soe.ucsc.edu
+  website: https://vollmerslab.soe.ucsc.edu
+  publications: https://vollmerslab.soe.ucsc.edu/publications
+  email: vollmers@ucsc.edu
+  title:
+    - Assistant Professor, Biomolecular Engineering
+
+- area: Paleogenomics
+  person: Richard Green
+  image: images/people/richard-green.jpg
+  page: https://www.soe.ucsc.edu/people/ed
+  website: https://pgl.soe.ucsc.edu/
+  publications: https://pgl.soe.ucsc.edu/publications.html
+  email: ed@soe.ucsc.edu
+  title:
+     - Associate Professor, Biomolecular Engineering

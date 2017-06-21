@@ -1,0 +1,27 @@
+---
+layout: default
+title: In the news
+nav: In the news
+page-style: news-clips
+order: 2
+---
+<article id="main">
+
+  <header>
+    <h2>{{ page.title }}</h2>
+  </header>
+
+  <section class="wrapper style5">
+    <div class="inner">      
+    <ul>
+      {% for link in site.data.news %}        
+      <li>
+        <p><strong>{{ link.date }}</strong> - <a href="{{ link.link }}">{{ link.title }}</a></p>
+        {% if link.text %}<blockquote>{{ link.text }}</blockquote>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    </div>
+  </section>
+
+</article>

@@ -14,7 +14,7 @@ url: "https://luckyluke007.github.io/rna-master/" # the base hostname & protocol
 # Build settings
 markdown: kramdown
 kramdown:
-  parse_block_html: true
+  parse_block_html: false
 
 sass:
  sass_dir: _sass 
