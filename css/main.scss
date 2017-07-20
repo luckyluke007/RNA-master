@@ -1641,23 +1641,15 @@ $baseurl: '{{ site.baseurl }}/images';
 			text-align: center;
 		}
 
-		.sub {
-			display: block;
-			border-bottom: none;
-			margin: 0 auto;
-			max-width: 45em;
-			padding-bottom: 1em;
-			text-align: center;
-		}
-
 		.inner {
-			@include vendor('display', 'flex');
+			display: block;
 			max-width: 45em;
 
 			header {
-				@include vendor('order', '1');
+				display: block;
 				padding-right: 3em;
-				width: 50%;
+				text-align: center;
+				width: 100%;
 
 				p {
 					color: inherit;
@@ -1665,11 +1657,62 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 
 			.actions {
-				align-items: center;
-				display: flex;
+				display: block;
 				justify-content: center;
-				@include vendor('order', '2');
+				width: 100%;
+
+				.button.fit {
+					margin: 0 auto 1em;
+					width: 50%;
+				}
+			}
+
+			.info-container {
+		  	display: flex;
+				margin: 0 0 2em 0;
+				padding: 0;
+				flex-wrap: wrap;
+
+		  }
+
+		  .sub {
+				display: block;
+				border-bottom: none;
+				margin: 0 auto;
+				max-width: 45em;
+				padding-bottom: 1em;
+				text-align: center;
+			}
+
+		  .info-container li {
+		  	display: block;
+		  	position: relative;
+				text-align: left;
 				width: 50%;
+		  }
+
+		  .info-container li:nth-child(1) {
+		  	background: rgba(0,0,0,.1);
+		  }
+
+		  .info-container li:nth-child(2) {
+		  	background: rgba(0,0,0,.15);
+		  }
+
+		  .info-container li:nth-child(3) {
+		  	background: rgba(0,0,0,.2);
+		  }
+
+		  .info-container li:nth-child(4) {
+		  	background: rgba(0,0,0,.25);
+		  }
+
+		  .info-container li:nth-child(odd) {
+				padding: 2em;
+			}
+
+			.info-container li:nth-child(even) {
+				padding: 2em;
 			}
 
 			@include breakpoint(medium) {
@@ -1686,73 +1729,37 @@ $baseurl: '{{ site.baseurl }}/images';
 					margin-right: auto;
 					max-width: 20em;
 					width: 100%;
+
+					.button {
+						overflow: visible;
+					}
+
+					.button.fit {
+						width: 100%;
+					}
+				}
+
+				.info-container li {
+					width: 100%;
+				}
+
+				.info-container li:nth-child(odd) {
+					padding: 2em 2em 0;
+				}
+
+				.info-container li:nth-child(even) {
+					padding: 2em 2em 0;
 				}
 			}
 
 			@include breakpoint(small) {
 				.actions {
 					max-width: none;
+
+					.button.fit {
+						width: 100%;
+					}
 				}
-			}
-		}
-	}
-
-	.container {
-		display: block;
-		margin: 0 auto;
-		max-width: 45em;
-		width: 100%;
-
-		.info-container {
-	  	display: flex;
-			margin: 0 0 2em 0;
-			padding: 0;
-			flex-wrap: wrap;
-
-	  }
-
-	  .info-container li {
-	  	display: block;
-	  	position: relative;
-			text-align: left;
-			width: 50%;
-	  }
-
-	  .info-container li:nth-child(1) {
-	  	background: rgba(0,0,0,.1);
-	  }
-
-	  .info-container li:nth-child(2) {
-	  	background: rgba(0,0,0,.15);
-	  }
-
-	  .info-container li:nth-child(3) {
-	  	background: rgba(0,0,0,.2);
-	  }
-
-	  .info-container li:nth-child(4) {
-	  	background: rgba(0,0,0,.25);
-	  }
-
-	  .info-container li:nth-child(odd) {
-			padding: 2em;
-		}
-
-		.info-container li:nth-child(even) {
-			padding: 2em;
-		}
-			
-		@include breakpoint(medium) {
-			.info-container li {
-				width: 100%;
-			}
-
-			.info-container li:nth-child(odd) {
-				padding: 2em 2em 0;
-			}
-
-			.info-container li:nth-child(even) {
-				padding: 2em 2em 0;
 			}
 		}
 	}
